@@ -91,14 +91,20 @@ iii)An external Api based tool which checks for password strength should show th
 
 # Reference 
 https://www.techtarget.com/searchsecurity/definition/MD5#:~:text=The%20MD5%20(message%2Ddigest%20algorithm,for%20authenticating%20the%20original%20message. 
+
 https://security.stackexchange.com/questions/19906/is-md5-considered-insecure 
+
 https://blog.avast.com/strong-password-ideas 
+
 https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/ 
+
 https://en.wikipedia.org/wiki/Salt_(cryptography)
+
 https://en.wikipedia.org/wiki/Cryptographic_hash_function
+
 https://en.wikipedia.org/wiki/Password_cracking#Software  
 
 
 # Complete report is available at
-	https://github.com/surajmane24/Goldman-Sachs-Crack-Leaked-Passsword-Database 
+https://github.com/surajmane24/Goldman-Sachs-Crack-Leaked-Passsword-Database 
 
